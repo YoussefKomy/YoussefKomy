@@ -25,5 +25,6 @@ Here are some of the projects I'm working on:
 ## 📫 Connect with Me
 
 * LinkedIn: [www.linkedin.com/in/youssefkomy]
+* GitHub: [https://github.com/YoussefKomy]
 
 ⭐ I'm continuously learning and building projects to improve my data analysis skills.
