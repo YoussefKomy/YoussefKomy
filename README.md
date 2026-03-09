@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm [Youssef Ahmed] 
 
-<!--
-**YoussefKomy/YoussefKomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** passionate about turning data into insights and data-driven decisions.
+Currently learning **Data Analysis with DEPI** and building projects using real-world datasets.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Data Analysis:** Excel, SQL, Python (Pandas, NumPy)
+* **Data Visualization:** Power BI, Tableau
+* **Data Handling:** Data Cleaning, Data Exploration, Data Visualization
+* **Tools:** Git, GitHub, Google Sheets , Excel
+
+## 📊 Projects
+
+Here are some of the projects I'm working on:
+
+* None RN
+
+## 📚 Currently Learning
+
+* Advanced SQL for Data Analysis
+* Python for Data Analysis
+* Data Visualization with Power BI
+
+## 📫 Connect with Me
+
+* LinkedIn: [www.linkedin.com/in/youssefkomy]
+
+⭐ I'm continuously learning and building projects to improve my data analysis skills.
